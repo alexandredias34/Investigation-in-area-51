@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Revolver
+comment1.params=pItemName\ pItemDesc
+comment1.target=Revolver(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ de\ Revolver\r\n\ @param\ pItemName\ est\ le\ nom\ de\ l'Item\r\n\ @param\ pItemDesc\ est\ la\ description\ de\ l'Item\r\n
+comment2.params=
+comment2.target=void\ assemble()
+comment2.text=\r\n\ Assemblage\ du\ Revolver\r\n
+comment3.params=
+comment3.target=boolean\ isAssembled()
+comment3.text=\r\n\ Getter\ de\ statut\ de\ Revolver\r\n\ @return\ le\ bool\u00E9en\ indiquant\ s'il\ est\ assembl\u00E9\r\n
+comment4.params=
+comment4.target=void\ load()
+comment4.text=\r\n\ Chargement\ du\ Revolver\r\n
+comment5.params=
+comment5.target=boolean\ isLoaded()
+comment5.text=\r\n\ Getter\ de\ statut\ de\ revolver\r\n\ @return\ le\ bool\u00E9en\ indiquant\ s'il\ est\ charg\u00E9\r\n
+comment6.params=
+comment6.target=void\ shoot()
+comment6.text=\r\n\ Modification\ du\ revolver\ apr\u00E8s\ avoir\ tir\u00E9\r\n
+numComments=7
